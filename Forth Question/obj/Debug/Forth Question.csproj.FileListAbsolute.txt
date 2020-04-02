@@ -1,0 +1,10 @@
+C:\Users\Furkan\Desktop\Forth Question\Forth Question\bin\Debug\Forth Question.exe.config
+C:\Users\Furkan\Desktop\Forth Question\Forth Question\bin\Debug\Forth Question.exe
+C:\Users\Furkan\Desktop\Forth Question\Forth Question\bin\Debug\Forth Question.pdb
+C:\Users\Furkan\Desktop\Forth Question\Forth Question\obj\Debug\Forth Question.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Forth Question\Forth Question\obj\Debug\Forth_Question.Form1.resources
+C:\Users\Furkan\Desktop\Forth Question\Forth Question\obj\Debug\Forth_Question.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Forth Question\Forth Question\obj\Debug\Forth Question.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Forth Question\Forth Question\obj\Debug\Forth Question.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Forth Question\Forth Question\obj\Debug\Forth Question.exe
+C:\Users\Furkan\Desktop\Forth Question\Forth Question\obj\Debug\Forth Question.pdb
